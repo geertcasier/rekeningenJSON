@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F4FF2333-DD86-4499-8581-0CF7605EC18F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="rekeningenJSON/rekeningen.aspx.cs">
+    <Files>
+      <File FileName="rekeningenJSON/rekeningen.aspx" Line="1" Column="1" />
+      <File FileName="rekeningenJSON/rekeningen.aspx.cs" Line="240" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="rekeningenJSON" expanded="True">
+            <Node name="rekeningenJSON" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="classes" expanded="True" />
+              <Node name="rekeningen.aspx" expanded="True">
+                <Node name="rekeningen.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.rekeningenJSON PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
